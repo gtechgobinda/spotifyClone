@@ -1,0 +1,12 @@
+font-family: 'Poppins', sans-serif;
+font-family: 'Open Sans', sans-serif;
+1.King - Maan Meri Jaan
+2.Arijit Singh- Kesariya (From Brahmastra)
+3.Arijit Singh, Sachin-Jigar - Apna Bana Le (From Bhediya)
+4.Arijit Singh, Neha Kakkar - Tu Hi Yaar Mera
+5.Atif Aslam, Alisha Chinai, Pritam - Tera Hone Laga Hoon
+6.Arijit Singh - Jaan Nisaar (Arijit)
+7.Pritam, Arijit Singh - Shayad
+8.Pritam, Arijit Singh - Khairiyat
+9.King - Tu Aake Dekhle
+10.Akhil Sachdeva, Tulsi Kumar - Tera Ban Jaunga
